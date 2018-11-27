@@ -10,6 +10,7 @@ class Main extends Component {
         <Header />
         <ImgLeft />
         <ImgRight />
+        <ImgLeft />
       </div>
     );
   }
