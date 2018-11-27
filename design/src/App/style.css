@@ -22,16 +22,21 @@ body {
   color: #008ed3;
 }
 
+#header img {
+  max-width: 100%;
+  height: auto;
+}
+
 #main {
   text-align: center;
 }
 
 #main h2 {
-  font-size: 3rem;
+  font-size: 2.5rem;
 }
 
 #main p {
-  font-size: 1.5rem;
+  font-size: 1.25rem;
 }
 
 .purple {

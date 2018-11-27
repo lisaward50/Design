@@ -20,9 +20,6 @@ class Nav extends Component {
             <li className="nav-item">
               <a className="nav-link" href="#">TOILETRIES</a>
             </li>
-            <li className="nav-item">
-              <a className="nav-link" href="#">EXTRAS</a>
-            </li>
           </ul>
         </div>
       </nav>
