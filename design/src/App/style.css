@@ -1,0 +1,58 @@
+body {
+  background: #c4e1ef;
+  color: #008ed3;
+  font-family: 'Raleway', sans-serif;
+}
+
+#navbar .navbar-brand {
+  font-size: 1.5rem;
+  font-weight: 150;
+  color: #008ed3;
+}
+
+#navbar .nav-link {
+  font-size: 1.25rem;
+  font-weight: 150;
+  color: white;
+}
+
+#navbar .nav-link:hover {
+  font-size: 1.25rem;
+  font-weight: 150;
+  color: #008ed3;
+}
+
+#main {
+  text-align: center;
+}
+
+#main h2 {
+  font-size: 3rem;
+}
+
+#main p {
+  font-size: 1.5rem;
+}
+
+.purple {
+  background: #DCD1EC;
+}
+
+.green {
+  background: #BCEBE6;
+}
+
+/*
+  Color scheme, using:
+  https://htmlcolorcodes.com/color-picker/
+*/
+
+@media (max-width: 1200px) {
+  #main h2 {
+   font-size: 2rem;
+  }
+
+  #main p {
+   font-size: 1rem;
+  }
+}
