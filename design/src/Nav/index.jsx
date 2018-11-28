@@ -12,13 +12,13 @@ class Nav extends Component {
         <div className="collapse navbar-collapse" id="navbarLinks">
           <ul className="navbar-nav mr-auto">
             <li className="nav-item">
-              <a className="nav-link" href="#">HOME</a>
+              <a className="nav-link" href="#top">HOME</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">CLOTHES</a>
+              <a className="nav-link" href="#clothing">CLOTHING</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">TOILETRIES</a>
+              <a className="nav-link" href="#toiletries">TOILETRIES</a>
             </li>
           </ul>
         </div>
