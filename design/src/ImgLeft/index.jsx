@@ -6,7 +6,7 @@ class ImgLeft extends Component {
     return (
       <div className="container-fluid px-0">
         <div className="row align-items-center no-gutters">
-          <div className="col-lg-6 order-2 order-lg-1 green">
+          <div className="col-lg-6 order-2 order-lg-1 white">
             <img className="img-fluid" src={link}/>
           </div>
           <div className="col-lg-6 order-1 order-lg-2">

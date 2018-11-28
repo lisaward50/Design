@@ -47,6 +47,10 @@ body {
   background: #BCEBE6;
 }
 
+.white {
+  background: white;
+}
+
 /*
   Color scheme, using:
   https://htmlcolorcodes.com/color-picker/

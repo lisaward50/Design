@@ -12,7 +12,7 @@ class Main extends Component {
         <div id="clothing"></div>
         <ImgRight title="Clothing" link="images/tshirt.jpeg" text="Always pack for the climate for your destination. For warm countries, t-shirts take-up much less space! Take only one or two bulky items (sweaters, shoes), pick one that matches with everything! Pack some handwash liquid for a mid-vacation wash"/>
         <div id="toiletries"></div>
-        <ImgLeft title="Toiletries" link="images/soap.jpeg" text="Pack what you really need, leave out big liquid items you can buy when you get there (e.g. shampoo and conditioner) and cut out liquids when you can (e.g. take face wipes). If you get it right you only need to take hand luggage"/>
+        <ImgLeft title="Toiletries" link="images/bag1.jpeg" text="Pack what you really need, leave out big liquid items you can buy when you get there (e.g. shampoo and conditioner) and cut out liquids when you can (e.g. take face wipes). If you get it right you only need to take hand luggage"/>
       </div>
     );
   }
